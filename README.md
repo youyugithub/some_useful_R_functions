@@ -18,4 +18,6 @@ all.subsets <- function(set) {
     mlply(bin, function(…) { set[c(…)] })
 }
 ```
-Example:
+### multiple panels in base plot
+
+Ref: http://seananderson.ca/courses/11-multipanel/multipanel.pdf
